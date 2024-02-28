@@ -1,7 +1,8 @@
 
-### Reference Documentation
+### Integration with HashiCorp [Vault](https://www.vaultproject.io/), a tool designed for securely managing sensitive data.
 
-#### Spring boot application that retrieves its configuration properties from HashiCorp [Vault.](https://www.vaultproject.io/)
+
+#### Spring Vault is a module within the Spring Framework ecosystem that provides integration with HashiCorp Vault, a tool designed for securely managing sensitive data. Vault allows you to store and access secrets such as passwords, API keys, and certificates in a centralized and secure manner.
 
 #### Dependency 
 
