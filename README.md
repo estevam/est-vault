@@ -10,6 +10,8 @@
 Java 21    
 Spring Boot: 3.2.0
 Spring Cloud: 2023.0.0  
+Spring Vault: 4.1.0
+
 ```
 
 [Download and install Vault](https://developer.hashicorp.com/vault/install)
